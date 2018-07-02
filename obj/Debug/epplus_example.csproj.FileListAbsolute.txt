@@ -1,0 +1,8 @@
+k:\code\c#\epplus_example\bin\Debug\epplus_example.exe.config
+k:\code\c#\epplus_example\bin\Debug\epplus_example.exe
+k:\code\c#\epplus_example\bin\Debug\epplus_example.pdb
+k:\code\c#\epplus_example\bin\Debug\EPPlus.dll
+k:\code\c#\epplus_example\bin\Debug\EPPlus.xml
+k:\code\c#\epplus_example\obj\Debug\epplus_example.csprojResolveAssemblyReference.cache
+k:\code\c#\epplus_example\obj\Debug\epplus_example.exe
+k:\code\c#\epplus_example\obj\Debug\epplus_example.pdb
